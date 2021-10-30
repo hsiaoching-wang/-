@@ -91,6 +91,7 @@ body {
     border:10px solid rgb(61, 61, 65);
     margin:5px;
     padding:10px;
+    position: relative;
 }
 .spyder{
     position: absolute;
