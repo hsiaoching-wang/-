@@ -92,3 +92,16 @@ body {
     margin:5px;
     padding:10px;
 }
+.spyder{
+    position: absolute;
+    top: 90%;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    /* background-color: rgb(59 100 126); */
+    border: dashed 4px gray;
+    /* box-sizing: unset; */
+    background-image: linear-gradient(to right, #4e1a1a 0%, #c76969 50%, #782c2c 50%);
+    background-size: 5px 40px;
+    background-repeat: repeat-x;
+}
